@@ -1,4 +1,5 @@
 % Source: Ketan Vibhandik (https://www.youtube.com/watch?v=0nyh4hwTrog)
+% Modified by: Gillian Minnehan
 % Based from research paper: Bay H., Tuytelaars. T, Van Gool L.: SURF: Speed Up Robust Features.
 % In: ECCV (2006) 404-417
 % Find paper at: https://people.ee.ethz.ch/~surf/eccv06.pdf
