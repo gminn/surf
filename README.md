@@ -1,2 +1,2 @@
 # surf
-Speeded Up Robust Features for Object Detection and Tracking
+Speed Up Robust Features for Object Detection and Tracking
